@@ -1,4 +1,4 @@
-Hi, my name is Yuheon Joh(曺宥献) and my English name is John. I am a CS major at UCSD. I like piano.
+Hi, my name is Yuheon Joh(曺宥献) and my English name is John. I am a CS major at UCSD. I like playing piano.
 <!--
 **leyuheon1/leyuheon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
