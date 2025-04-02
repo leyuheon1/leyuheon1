@@ -2,14 +2,14 @@ Hi, my name is Yuheon Joh(曺宥献) and my English name is John. I am a CS majo
 
 Songs I have studied so far : 
 
-Chopin : Prelude #4 (E minor), #20 (C minor), Waltz in A minor
-Bach : Minuet in G minor, Invention #2 (C minor)
-Beethoven : Fur Elise
-Schuman : Traumerei 
-Debussy : Girl with the Flaxen Hair
-Piazzola : Milango del Angel
-Paul de Senneville : Balade pour Adeline
-Pachelbel : Canon in D (arr. Lee Galloway)
+Chopin : Prelude #4 (E minor), #20 (C minor), Waltz in A minor  <br>
+Bach : Minuet in G minor, Invention #2 (C minor)  <br>
+Beethoven : Fur Elise  <br>
+Schuman : Traumerei   <br>
+Debussy : Girl with the Flaxen Hair  <br>
+Piazzola : Milango del Angel  <br>
+Paul de Senneville : Balade pour Adeline  <br>
+Pachelbel : Canon in D (arr. Lee Galloway)  <br>
 
 
 <!--
