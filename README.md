@@ -6,7 +6,7 @@ Chopin : Prelude #4 (E minor), #20 (C minor), Waltz in A minor, Waltz in B minor
 Bach : Minuet in G minor, Invention #2 (C minor)  <br>
 Beethoven : Fur Elise, Pathetique mvt2  <br> 
 Schuman : Traumerei   <br>
-Schubert : Impromptu No.2 <br>
+Schubert : Impromptu Op.90 No.2 <br>
 Debussy : Girl with the Flaxen Hair  <br>
 Piazzola : Milango del Angel  <br>
 Paul de Senneville : Balade pour Adeline  <br>
