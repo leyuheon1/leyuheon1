@@ -3,7 +3,7 @@ Hi, my name is Yuheon Joh(曺宥献) and my English name is John. I am a CS majo
 I have been playing piano since March 2024. Songs I have studied so far : 
 
 Chopin : Prelude #4 (E minor), #20 (C minor), Waltz in A minor, Waltz in B minor  <br>
-Bach : Minuet in G minor, Invention #2 (C minor)  <br>
+Bach : Minuet in G minor, Invention #2 (C minor), Sinfonia B minor  <br>
 Beethoven : Fur Elise, Pathetique mvt2  <br> 
 Schuman : Traumerei   <br>
 Schubert : Impromptu Op.90 No.2 <br>
